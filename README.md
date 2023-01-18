@@ -11,15 +11,11 @@ https://espacio-bonhomia.herokuapp.com
 - Pillow
 
 ## Desarrolador ##
- - Horacio Albornoz
-## Colaboracion de ##
- - Hernan Wasinger
- - Ignacio Farruggia
+ - Maria Emili Venturi
 
 
-## Video explicativo ##
 
-[![Alt text](https://img.youtube.com/vi/WP2HwJrsfHw/0.jpg)](https://www.youtube.com/watch?v=WP2HwJrsfHw)
+
 
 ## Tabla de Contenidos ##
 
